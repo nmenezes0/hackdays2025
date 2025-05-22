@@ -2,9 +2,9 @@
 
 Propose your team here or join an existing team below!
 
-## Team name
+## Incubator for AI (UK Gov)
 
-- **Team Lead**: @janedoe
-- **Members**: @janedoe, @johnsmith  
-- **Idea**: Open data platform for public policy transparency.
+- **Team Lead**: @gecBurton
+- **Members**: @gecBurton, @duncanjbrown, @rachaelcodes, @nmenezes0  
+- **Idea**: Sustainability (to be confirmed)
 
